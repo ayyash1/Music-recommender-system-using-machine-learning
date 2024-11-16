@@ -32,8 +32,8 @@ The Music Recommender System aims to enhance music discovery by making accurate 
 ## 🚀 Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/music-recommender-system.git
-    ```
+    git clone https://github.com/ayyash1/Music-recommender-system-using-machine-learning.git
+     ```
 2. Navigate to the project directory:
     ```bash
     cd music-recommender-system
